@@ -24,7 +24,7 @@ def main():
    print("Your zodiac sign is Virgo")
   elif(ay == "September" and 23 <= gun <= 30) or (ay == "October" and 1 <= gun <= 22):
    print("Your zodiac sign is Libra")
-  elif(a y== "October" and 23 <= gun <= 31) or (ay == "November" and 1 <= gun <= 21):
+  elif(ay== "October" and 23 <= gun <= 31) or (ay == "November" and 1 <= gun <= 21):
    print("Your zodiac sign is Scorpion")
   elif(ay == "November" and 22 <= gun <= 30) or (ay == "December" and 1 <= gun <= 21):
    print("Your zodiac sign is Sagittarius")
