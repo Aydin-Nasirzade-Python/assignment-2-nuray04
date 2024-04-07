@@ -1,7 +1,7 @@
 #import libraries here
 
 def main():
-uzunluq=int(input("Enter the wavelength in nm: "))
+uzunluq = int(input("Enter the wavelength in nm: "))
 if 380 <= uzunluq <= 750:
     if 380<=uzunluq<450:
         print("The relevant color is Violet")
