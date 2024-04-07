@@ -11,8 +11,7 @@ def main():
    print(f"{ay} {gun} is in Fall")
  else:
    print(f"{ay} {gun} is in Winter")
- 
-  pass
+ pass
 
 if __name__ == "__main__":
   main()
