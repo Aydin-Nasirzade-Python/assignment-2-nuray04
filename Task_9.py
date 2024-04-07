@@ -8,5 +8,6 @@ def main():
  else:
   print("The point is not in the shaded area")   
 pass
+
 if __name__ == "__main__":
   main()
