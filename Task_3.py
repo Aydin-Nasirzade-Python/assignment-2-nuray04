@@ -17,7 +17,7 @@ def main():
     print("The relevant color is Red")
  else:
    print("Invalid input!")
-  pass
+pass
 
 if __name__ == "__main__":
   main()
