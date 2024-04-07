@@ -1,7 +1,7 @@
 #import libraries here
 
 def main():
-  ay = input("Enter a month [ex. March]: ")
+ay = input("Enter a month [ex. March]: ")
 gun = int(input("Enter the day [ex. 12]: "))
 if (1<=gun<=31 and (ay=="December"or ay=="January" or ay=="March" or ay=="May" or ay=="July" or ay=="August" or ay=="October")) or (1<=gun<=30 and (ay=="April" or ay=="June" or ay=="September" or ay=="November")) or (1<=gun<=29 and ay=="February"):     
     if(ay=="December" and 22<=gun<=31) or (ay=="January" and 1<=gun<=19):
